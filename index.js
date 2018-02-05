@@ -5,3 +5,8 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return musiciansInstruments;
 }
+
+function johnLennonFacts(facts) {
+  var exclamations = []
+  while 
+}
