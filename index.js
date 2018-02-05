@@ -13,4 +13,5 @@ function johnLennonFacts(facts) {
     exclamations.push(`${facts[i]}!!!`)
     i++;
   }
+  return exclamations;
 }
